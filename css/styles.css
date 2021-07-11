@@ -9946,6 +9946,9 @@ a.text-info:hover, a.text-info:focus {
   color: #ffc107 !important;
 }
 
+.medal-gold{
+  color: gold !important;
+}
 .medal-silver{
   color: silver !important;
 }
